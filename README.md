@@ -20,6 +20,38 @@ In this case study, I have analyzed different aspects of digital literacy, inclu
 
 The project is based on a real-life inspired scenario and reflects my own understanding and perspective on these topics.
 
+**Project Structure**
+
+Digital-Literacy-Case-Study
+│── 📄 CaseStudy_Report.pdf
+│── 📄 README.md
+
+**Requirements**
+
+No special software or coding environment is required.
+
+You only need:
+
+A PDF viewer (like Chrome, Adobe Reader, etc.)
+
+**How to Run / View the Project**
+
+Since this is a case study (not a coding project), there is no execution required.
+
+Follow these steps:
+
+-Download or clone this repository
+
+-git clone <your-repo-link>
+
+-Open the project folder
+
+-Locate the file:
+
+CaseStudy_25BAI10307_Shriya Parmar.pdf
+
+-Open it using any PDF viewer
+
 **Contents**
 
 The report is divided into the following sections:
