@@ -23,8 +23,10 @@ The project is based on a real-life inspired scenario and reflects my own unders
 **Project Structure**
 
 Digital-Literacy-Case-Study
-│── 📄 CaseStudy_Report.pdf
-│── 📄 README.md
+
+│── CaseStudy_Report.pdf
+
+│── README.md
 
 **Requirements**
 
