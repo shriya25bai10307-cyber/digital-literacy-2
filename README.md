@@ -5,27 +5,41 @@ The project focuses on understanding how students use digital tools in daily aca
 
 **About the Project**
 In this case study, I have analyzed different aspects of digital literacy, including:
+
 -Use of digital tools in education
+
 -Online identity and ethical concerns
+
 -Collaboration in digital environments
+
 -Cyber awareness and risks
+
 -Communication and professional etiquette
 
 The project is based on a real-life inspired scenario and reflects my own understanding and perspective on these topics.
 
 **Contents**
 The report is divided into the following sections:
+
 -Understanding Digital Tools
+
 -Digital Identity and Ethics
+
 -Collaboration or Misuse
+
 -Cyber Awareness
+
 -Digital Communication
+
 -Personal Reflection
 
 **Objective**
 The main aim of this project is to go beyond basic usage of digital tools and think about:
+
 -How our actions online affect others
+
 -The risks involved in digital platforms
+
 -The importance of responsible behavior
 
 **Key Learning**
